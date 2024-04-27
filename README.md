@@ -47,17 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lucasFR2/lucasFR2/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/22iwznzoapotr42iektwwxboa?si=62e7015e43324bc3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/22iwznzoapotr42iektwwxboa?si=62e7015e43324bc3&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
