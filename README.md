@@ -21,11 +21,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucasFR2/count.svg?"  />
-</div>
 
 ###
 
